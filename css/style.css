@@ -10,9 +10,14 @@
 /******************************************
 /* LAYOUT
 /*******************************************/
+body{
+  background-image: url(calmVibes.avif);
+}
 img{
   display: block;
-  margin: 0 auto;
+  margin: 3rem auto;
+  max-width: 700ppx;
+  max-height: 700px;
 }
 
 
