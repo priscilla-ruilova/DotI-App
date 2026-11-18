@@ -2,6 +2,8 @@
 
 ### Project Scope: A simple website to practice using APIs. This site is straightforward. Click the link and get your dose of digital oxytocin in the form of dog photos!
 
+### Live Link
+- To access this site, check out the About section of this repo or [follow this link.](https://priscilla-ruilova.github.io/DotI-App/)
 ### Tech Used: 
 - HTML, CSS, Vanilla JavaScript
 
